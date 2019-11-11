@@ -14,6 +14,9 @@ contributor:
     birthdate: 1867
     gutenberg_agent_id: '43749'
     url: http://www.gutenberg.org/2009/agents/43749
+covers:
+- cover_type: archival
+  image_path: 60645-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Reeves, William Pember
@@ -25,6 +28,8 @@ creator:
     gutenberg_agent_id: '4351'
     url: http://www.gutenberg.org/2009/agents/4351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60645#New-Zealand
 gutenberg_issued: '2019-11-07'
 gutenberg_type: Text
 identifiers:
