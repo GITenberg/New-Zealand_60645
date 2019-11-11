@@ -1,0 +1,39 @@
+_repo: New-Zealand_60645
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Wright, William Aldis
+    alias: Wright, W. Aldis (William Aldis)
+    birthdate: 1831
+    deathdate: 1914
+    gutenberg_agent_id: '9353'
+    url: http://www.gutenberg.org/2009/agents/9353
+    wikipedia: http://en.wikipedia.org/wiki/William_Aldis_Wright
+  - agent_name: Wright, F. B. (Frederic B.)
+    alias: Wright, Frederic B.
+    birthdate: 1867
+    gutenberg_agent_id: '43749'
+    url: http://www.gutenberg.org/2009/agents/43749
+creator:
+  author:
+    agent_name: Reeves, William Pember
+    aliases:
+    - Reeves, W. P. (William Pember)
+    - Pember Reeves, William
+    birthdate: 1857
+    deathdate: 1932
+    gutenberg_agent_id: '4351'
+    url: http://www.gutenberg.org/2009/agents/4351
+description: ''
+gutenberg_issued: '2019-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: New Zealand
+url: http://www.gutenberg.org/ebooks/60645
